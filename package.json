@@ -1,0 +1,37 @@
+{
+	"name": "rblx-dark",
+	"publisher": "ThxVS64",
+	"displayName": "RBLX Dark",
+	"description": "Roblox's dark theme for lua scripting imported.",
+	"version": "0.3.0",
+	"engines": {
+		"vscode": "^1.37.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "RBLXDark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/RBLX-Dark.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "0d801e86-7b6f-4faa-bccc-36021b92c7a7",
+		"publisherDisplayName": "ThxVS64",
+		"publisherId": "dd6ccd01-c0ca-4dac-8c8f-e539fd53460d",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"preRelease": false,
+		"installedTimestamp": 1660089653042
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Thx64/RBLX-DARK"
+	}
+}
